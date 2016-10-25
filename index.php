@@ -6,7 +6,6 @@ echo "这是PHP文件!";
   <head>
     
 
-
    
     <title>blog</title>
   </head>
