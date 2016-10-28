@@ -5,7 +5,6 @@ echo "这是PHP文件!";
 <html>  
   <head>
     
-
  smarty
     <title>blog</title>
   </head>
