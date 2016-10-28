@@ -3,7 +3,7 @@ echo "这是PHP文件!";
 ?>
 <!doctype>
 <html>  
-  <hea
+  <head>
     
     <title>blog</title>
   </head>
