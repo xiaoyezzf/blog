@@ -9,7 +9,7 @@ echo "这是PHP文件!";
   </head>adfa
   <body>aasd
        asd
-  </body>  asd
+  </body>  asdadfasdf
 </html>
 
 
