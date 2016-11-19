@@ -9,7 +9,7 @@ echo "这是PHP文件!";
   </head>
   <body>
        
-  </body>
+  </body>  
 </html>
 
 
