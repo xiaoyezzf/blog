@@ -2,7 +2,7 @@
 echo "这是PHP文件!";
 ?>
 <!doctype>
-<html>  
+<html>    
   <head>
     
     <title>blog</title>
