@@ -10,6 +10,6 @@ echo "这是PHP文件!";
   <body>aasd
        asd
   </body>  asdadfasdf
-</html>
+</html>ads
 
 
