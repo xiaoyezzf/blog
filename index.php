@@ -1,5 +1,5 @@
 <?php
-echo "这是PHP文件!";
+echo "这是PHP文件!萨达大厦";
 ?>
 <!doctype>
 <html>    
